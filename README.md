@@ -1,4 +1,5 @@
-Informe sobre el Proyecto de la Aplicación con Power Platform
+PET TRACKER
+Proyecto de la Aplicación con Power Platform, Azure SQL Server, Azure Blob Storage, Azure Devops y Github.
 
 El proyecto consiste en la creación de una aplicación de seguimiento para mascotas, la cual fue construida utilizando Power Platform, que incluye Power Apps, Power Automate y Power BI. La información registrada en la aplicación se almacena en Azure SQL Database y Azure Blob.
 
